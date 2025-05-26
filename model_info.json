@@ -1,0 +1,21 @@
+{
+    "model_name": "Gradient Boosting (Tuned)",
+    "model_type": "GradientBoostingRegressor",
+    "r2_score": 0.993031286917309,
+    "rmse": 69.15273359443636,
+    "mae": 55.87690724120441,
+    "mape": 1.426366527887264,
+    "features": [
+        "Square Footage",
+        "Number of Occupants",
+        "Appliances Used",
+        "Average Temperature",
+        "Building Type Encoded",
+        "Day of Week Encoded",
+        "Occupancy_Density",
+        "Appliances_per_Occupant",
+        "Size_Category_Encoded"
+    ],
+    "training_date": "2025-05-25",
+    "sklearn_version": "1.3.0"
+}
